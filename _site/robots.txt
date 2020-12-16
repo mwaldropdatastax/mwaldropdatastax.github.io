@@ -1,1 +1,1 @@
-Sitemap: /flexible-jekyll/sitemap.xml
+Sitemap: https://mwaldropdatastax.github.io//flexible-jekyll/sitemap.xml

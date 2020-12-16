@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
  This is simply here to share info easily with folks.
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mwaldropdatastax.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
