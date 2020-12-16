@@ -10,14 +10,14 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Michael Waldrop # add your name
 author-img:  mike_waldrop_profile_2020-slack.jpg # add your photo
 about-author: DataStax Data Architect # add description
-social-twitter: # add your Twitter handle
+social-twitter: WaldropMike # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: mwaldropdatastax # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: mikewaldrop # add your Linkedin handle
+social-email: michael.waldrop@datastax.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
