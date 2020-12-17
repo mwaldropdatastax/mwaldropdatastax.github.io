@@ -935,7 +935,14 @@ table tfoot td {
   padding: 20px 10px;
   background-color: #ffffff;
 }
-
+.cool-links ul {
+  list-style-type: none;
+}
+.cool-links a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
 .about {
   margin: 0 0 40px;
   text-align: center;
